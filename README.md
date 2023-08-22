@@ -73,7 +73,7 @@ If you do not have ruby installed in your computer, you can follow [this](https:
 Clone this repository to your desired folder:
 ```
 cd my folder
-git clone  https://github.com/hernandanielzamora/Ruby-Capstone.git
+git clone  https://github.com/hernandanielzamora/hello-react-front-end.git
 ```
 
 ### Install
