@@ -8,7 +8,6 @@ const initialState = {
 
 const url = 'http://localhost:3000/api/v1/messages';
 
-
 export const getMessages = createAsyncThunk('messages/fetchMessages', async () => {
   const response = await fetch(`${url}`);
   const data = await response.json();

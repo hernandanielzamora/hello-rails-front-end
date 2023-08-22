@@ -1,11 +1,11 @@
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { getMessages } from '../redux/messagesSlice';
+import { getMessages } from '../redux/messages/messagesSlice';
 
 const Message = () => {
   const dispatch = useDispatch();
   const messageText = useSelector((state) => state.messages);
-  console.log(messageText.messages.text);
+  console.log(messageText);
 
   useEffect(() => {
     dispatch(getMessages());
@@ -19,4 +19,4 @@ const Message = () => {
   );
 };
 
-export default Message
+export default Message;
