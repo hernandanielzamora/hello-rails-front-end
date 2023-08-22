@@ -34,7 +34,7 @@
     <li><a href="https://es.react.dev/">React JS</a></li>
   </ul>
 </details>
-<details>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
