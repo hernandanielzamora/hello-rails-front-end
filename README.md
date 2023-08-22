@@ -23,7 +23,7 @@
 
 # 📖  Hello Rails Front End <a name="about-project"></a>
 
-**Hello Rails Front End** Is an app built to display the data from the API app that you can find (here)[https://github.com/hernandanielzamora/hello-rails-back-end/tree/feature/hello-rails-backend]. It's only porpuse is to test the implementation.
+**Hello Rails Front End** Is an app built to display the data from the API app that you can find [here](https://github.com/hernandanielzamora/hello-rails-back-end/tree/feature/hello-rails-backend). It's only porpuse is to test the implementation.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -142,6 +142,6 @@ I would like to thank Microverse for teaching me React.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](../../LICENSE) licensed.
+This project is [MIT](https://github.com/hernandanielzamora/hello-react-front-end/blob/feature/hello-react-frontend/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
