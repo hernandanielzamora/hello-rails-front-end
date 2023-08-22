@@ -23,7 +23,7 @@
 
 # 📖  Hello Rails Front End <a name="about-project"></a>
 
-**Hello Rails Front End** Is an app built to display the data from the API app that you can find (here)[https://github.com/hernandanielzamora/hello-rails-back-end/tree/feature/hello-rails-backend]. It's only porpuse is to test the implementation.
+**Hello Rails Front End** Is an app built to display the data from the API app that you can find [here](https://github.com/hernandanielzamora/hello-rails-back-end/tree/feature/hello-rails-backend). It's only porpuse is to test the implementation.
 
 ## 🛠 Built With <a name="built-with"></a>
 
